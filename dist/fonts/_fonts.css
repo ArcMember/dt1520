@@ -1,0 +1,88 @@
+/* CSS Document */
+
+@font-face {
+	font-family: "FSrail";
+	src: url('FSRAIL55.ttf');
+}
+@font-face {
+	font-family: "RussianRailGPro";
+	src: url('RussianRailGPro.otf');
+}
+
+._color_red{color: #d30422;}
+._color_grey{color: #646566;}
+._color_black{color: #080808;}
+._color_white{color: #FFFFFF;}
+._color_blue{color: #3C4FFF;}
+
+
+
+a.font_mainmenu,a.font_mainbtn,a.font_header,a.font_anorm,a.font_anorm,a.font_abold,
+p.font_mainmenu,p.font_mainbtn,p.font_header,p.font_anorm,p.font_anorm,p.font_abold{
+	position: relative;		
+	text-align:left;	
+	white-space: normal;
+	overflow-wrap: normal;
+	text-decoration:none;	
+	font-weight: regular;	
+}
+p.font_mainmenu,a.font_mainmenu{
+    font-size: 30px;	
+	font-family: FSrail; 	 /*RussianRailGPro;	*/
+}
+p.font_mainbtn,a.font_mainbtn{
+    font-size: 28px;	
+	font-family: FSrail; 
+}
+
+p.font_header,a.font_header{
+    font-size: 36px;	
+	font-family: FSrail; /*RussianRailGPro;	*/
+}
+
+p.font_anorm,a.font_anorm{
+    font-size: 22px;	
+	font-family: FSrail;	
+	line-height: 32px;
+		text-align:justify;	
+}
+
+p.font_small,a.font_small{
+    font-size: 16px;	
+	font-family: FSrail;	
+	line-height: 16px;
+}
+
+p.font_abold,a.font_abold{
+    font-size: 22px;	
+	font-family: FSrail;	
+	line-height: 32px;
+	font-weight: bold;	
+}
+p.font_cont,a.font_cont{
+    font-size: 24px;	
+	font-family: FSrail;	
+	line-height: 32px;
+}
+
+
+p.font_descheader,a.font_descheader{
+	position: relative;		
+	text-align:left;	
+	white-space: normal;
+	overflow-wrap: normal;
+	text-decoration:none;	
+	font-weight: regular;		
+    font-size: 30px;	
+	font-family: RussianRailGPro;	
+}
+
+p.font_about_indent{
+	text-indent:24px;
+	padding-top:6px;
+	padding-bottom:6px;	
+	padding-left:24px;
+	padding-right:24px;	
+	text-align:justify;	
+}
+

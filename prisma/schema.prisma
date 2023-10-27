@@ -1,0 +1,22 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  binaryTargets = ["native", "debian-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Page {
+  branch  String @default("")
+  title   String @default("")
+  content String @default("")
+  url     String @unique
+  cover   String @default("")
+  mtime   String @default("")
+  date    String @default("")
+}

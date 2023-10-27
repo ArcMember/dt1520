@@ -1,0 +1,1 @@
+const t={text:"Цифровые технологии 1520",items:[{text:"Цифровые технологии 1520",href:"/"},{text:"О компании",items:[{text:"О компании",href:"/about/"}]},{text:"Новости",items:[{text:"Новости",href:"/news/"}]},{text:"Продукты",items:[{text:"Продукты",href:"/products/"},{text:"Клиент ЭП",href:"/products/client-ep/"}]}]};export{t as default};

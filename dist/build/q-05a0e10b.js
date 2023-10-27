@@ -1,0 +1,1 @@
+import{F as t,m as a,_ as e}from"./q-c22284a5.js";const o=t(a(()=>e(()=>import("./q-faffabbb.js"),["build/q-faffabbb.js","build/q-3c878900.js","build/q-c22284a5.js","build/q-e8f1eda3.js"]),"s_22wpahHHp3g")),s={title:"Услуги",meta:[{name:"Цифровые технологии 1520"}]};export{o as default,s as head};

@@ -1,0 +1,1 @@
+import{F as t,m as e,_ as i}from"./q-c22284a5.js";const s=t(e(()=>i(()=>import("./q-7a0103b6.js"),["build/q-7a0103b6.js","build/q-c22284a5.js","build/q-34563eb4.js"]),"s_xYL1qOwPyDI")),a={title:"Цифровые технологии 1520",meta:[{name:"Цифровые технологии 1520",content:"Qwik site description"}]};export{s as default,a as head};
