@@ -1,5 +1,5 @@
 {
-  "manifestHash": "8kc4hy",
+  "manifestHash": "v7i2b1",
   "symbols": {
     "s_02wMImzEAbk": {
       "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
@@ -95,8 +95,8 @@
       "captures": false,
       "parent": null,
       "loc": [
-        269,
-        794
+        291,
+        816
       ]
     },
     "s_8gdLBszqbaM": {
@@ -277,8 +277,8 @@
       "captures": false,
       "parent": null,
       "loc": [
-        1134,
-        1437
+        951,
+        1254
       ]
     },
     "s_WmYC5H00wtI": {
@@ -773,71 +773,83 @@
     }
   },
   "mapping": {
-    "s_02wMImzEAbk": "q-38b483b2.js",
+    "s_02wMImzEAbk": "q-b08bbddf.js",
     "s_W0aQn8OEznI": "q-d3c3737a.js",
     "s_nhuDtJyjehg": "q-e4bc73b1.js",
     "s_0MGbS7NS0Nk": "q-8d1e70db.js",
-    "s_22wpahHHp3g": "q-2f0ff342.js",
-    "s_3H0Ghs1NYJk": "q-24b68bc0.js",
-    "s_3sccYCDd1Z0": "q-254543ca.js",
-    "s_8gdLBszqbaM": "q-e6509a54.js",
-    "s_9IgPNJsxq0g": "q-50e475bf.js",
-    "s_DsaEOHLfttE": "q-5914773a.js",
-    "s_F8f0Cnmclyo": "q-863c2570.js",
-    "s_FIL5rX6jm0w": "q-bcfc7183.js",
-    "s_GGGp8iJxhTQ": "q-34cef8f5.js",
-    "s_HpfO4B4tLt4": "q-fefc8526.js",
-    "s_KD7Y08B0IyI": "q-fe820028.js",
-    "s_Nk9PlpjQm9Y": "q-458f5f34.js",
-    "s_PTuj2QTqRtc": "q-dcde7be3.js",
-    "s_QlYBmGyp0Cc": "q-257d447d.js",
-    "s_TxCFOy819ag": "q-38b483b2.js",
-    "s_VkLNXphUh5s": "q-7d05e967.js",
-    "s_WmYC5H00wtI": "q-43dcc7b8.js",
-    "s_ceU05TscGYE": "q-410d3420.js",
-    "s_e0ssiDXoeAM": "q-b03dd7f3.js",
-    "s_kFln4MsQWpk": "q-bd2eeeb0.js",
+    "s_22wpahHHp3g": "q-0e3dba61.js",
+    "s_3H0Ghs1NYJk": "q-7f08b14c.js",
+    "s_3sccYCDd1Z0": "q-d706071e.js",
+    "s_8gdLBszqbaM": "q-78ad195f.js",
+    "s_9IgPNJsxq0g": "q-ea82ebe7.js",
+    "s_DsaEOHLfttE": "q-ebfe1c8f.js",
+    "s_F8f0Cnmclyo": "q-4a78bbe6.js",
+    "s_FIL5rX6jm0w": "q-e8b417f3.js",
+    "s_GGGp8iJxhTQ": "q-aebc78f7.js",
+    "s_HpfO4B4tLt4": "q-6dd4d321.js",
+    "s_KD7Y08B0IyI": "q-ff29680c.js",
+    "s_Nk9PlpjQm9Y": "q-ecababd6.js",
+    "s_PTuj2QTqRtc": "q-b1cd5c9e.js",
+    "s_QlYBmGyp0Cc": "q-6f751a51.js",
+    "s_TxCFOy819ag": "q-b08bbddf.js",
+    "s_VkLNXphUh5s": "q-eeb9d05e.js",
+    "s_WmYC5H00wtI": "q-af0669aa.js",
+    "s_ceU05TscGYE": "q-a728a4f9.js",
+    "s_e0ssiDXoeAM": "q-c1c7e0b4.js",
+    "s_kFln4MsQWpk": "q-87b11620.js",
     "s_rUq4LhQnQXA": "q-e4bc73b1.js",
     "s_tv0G0SbNq5c": "q-d3c3737a.js",
-    "s_wixdK5ojg40": "q-5edeafa6.js",
-    "s_xYL1qOwPyDI": "q-6df5947f.js",
-    "s_xlBeEWwX3do": "q-792363ec.js",
-    "s_zrbrqoaqXSY": "q-c255330f.js",
-    "s_7DMBIr9Cy0g": "q-50e475bf.js",
-    "s_Q9cGCiVzzY4": "q-5edeafa6.js",
-    "s_RPDJAz33WLA": "q-38b483b2.js",
-    "s_fry0dHIyBmo": "q-fefc8526.js",
-    "s_gxRFzyJELJg": "q-bcfc7183.js",
+    "s_wixdK5ojg40": "q-cd910947.js",
+    "s_xYL1qOwPyDI": "q-b844deb4.js",
+    "s_xlBeEWwX3do": "q-497f44a8.js",
+    "s_zrbrqoaqXSY": "q-a1a8d500.js",
+    "s_7DMBIr9Cy0g": "q-ea82ebe7.js",
+    "s_Q9cGCiVzzY4": "q-cd910947.js",
+    "s_RPDJAz33WLA": "q-b08bbddf.js",
+    "s_fry0dHIyBmo": "q-6dd4d321.js",
+    "s_gxRFzyJELJg": "q-e8b417f3.js",
     "s_r3grqUnUHb4": "q-d3c3737a.js",
     "s_secLXsmUCAE": "q-e4bc73b1.js",
-    "s_6r9BnBnj0sQ": "q-6df5947f.js",
+    "s_6r9BnBnj0sQ": "q-b844deb4.js",
     "s_A5bZC7WO00A": "q-e8547b78.js",
     "s_DyVc0YBIqQU": "q-663033b0.js",
-    "s_wOIPfiQ04l4": "q-32603a5f.js",
-    "s_0ehtYaRIXBc": "q-257d447d.js",
-    "s_AqkcqSDur3U": "q-34cef8f5.js",
-    "s_BUbtvTyvVRE": "q-43dcc7b8.js",
-    "s_Sz15kiC00QQ": "q-257d447d.js",
-    "s_cw6hgir0uIA": "q-792363ec.js",
-    "s_eRkT2saU0Hs": "q-bd2eeeb0.js",
-    "s_eTegcJCLlZY": "q-2f0ff342.js",
-    "s_nP7i020Zj9M": "q-257d447d.js",
-    "s_oavufqJoMqY": "q-257d447d.js",
-    "s_Xl02XzA0Dqk": "q-863c2570.js",
-    "s_eBQ0vFsFKsk": "q-2a7e1fe8.js",
-    "s_fX0bDjeJa0E": "q-38b483b2.js",
-    "s_i1Cv0pYJNR0": "q-e6509a54.js",
-    "s_p9MSze0ojs4": "q-458f5f34.js"
+    "s_wOIPfiQ04l4": "q-faad7974.js",
+    "s_0ehtYaRIXBc": "q-6f751a51.js",
+    "s_AqkcqSDur3U": "q-aebc78f7.js",
+    "s_BUbtvTyvVRE": "q-af0669aa.js",
+    "s_Sz15kiC00QQ": "q-6f751a51.js",
+    "s_cw6hgir0uIA": "q-497f44a8.js",
+    "s_eRkT2saU0Hs": "q-87b11620.js",
+    "s_eTegcJCLlZY": "q-0e3dba61.js",
+    "s_nP7i020Zj9M": "q-6f751a51.js",
+    "s_oavufqJoMqY": "q-6f751a51.js",
+    "s_Xl02XzA0Dqk": "q-4a78bbe6.js",
+    "s_eBQ0vFsFKsk": "q-984cab4c.js",
+    "s_fX0bDjeJa0E": "q-b08bbddf.js",
+    "s_i1Cv0pYJNR0": "q-78ad195f.js",
+    "s_p9MSze0ojs4": "q-ecababd6.js"
   },
   "bundles": {
-    "q-0941385e.js": {
-      "size": 845,
+    "q-0673b304.js": {
+      "size": 884,
       "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
+        "q-5a607cbf.js",
+        "q-75910706.js"
       ],
       "origins": [
-        "src/routes/products/kp-tr-ab/index.mdx"
+        "src/routes/products/caspr/index.mdx"
+      ]
+    },
+    "q-0b4aa1f1.js": {
+      "size": 179,
+      "imports": [
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-6f751a51.js"
+      ],
+      "origins": [
+        "src/components/content/carousel/carousel.tsx"
       ]
     },
     "q-0b9dec26.js": {
@@ -847,6 +859,24 @@
       ],
       "origins": [
         "src/routes/services/corporate-is/index.mdx"
+      ]
+    },
+    "q-0e3dba61.js": {
+      "size": 1748,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js",
+        "q-e89ba716.js",
+        "q-fd4a517a.js"
+      ],
+      "origins": [
+        "src/entry_services.js",
+        "src/s_22wpahhhp3g.js",
+        "src/s_etegcjcllzy.js"
+      ],
+      "symbols": [
+        "s_22wpahHHp3g",
+        "s_eTegcJCLlZY"
       ]
     },
     "q-13033229.js": {
@@ -861,76 +891,172 @@
         "@qwik-city-entries"
       ]
     },
-    "q-16caad9c.js": {
+    "q-18e72740.js": {
+      "size": 321,
+      "imports": [
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-0e3dba61.js"
+      ],
+      "origins": [
+        "src/routes/services/index.tsx"
+      ]
+    },
+    "q-1e10729f.js": {
+      "size": 845,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/products/kp-tr-ab/index.mdx"
+      ]
+    },
+    "q-21fd31d7.js": {
       "size": 346,
       "imports": [
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-fefc8526.js"
+        "q-6dd4d321.js"
       ],
       "origins": [
         "src/routes/customers/index.tsx"
       ]
     },
-    "q-196a8eb5.js": {
-      "size": 323,
+    "q-25ee0c62.js": {
+      "size": 301,
       "imports": [
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-bd2eeeb0.js"
+        "q-e8b417f3.js"
       ],
       "origins": [
-        "src/routes/contacts/index.tsx"
+        "src/routes/products/index.tsx"
       ]
     },
-    "q-1fb862c0.js": {
-      "size": 323,
+    "q-34ccb34e.js": {
+      "size": 207,
       "imports": [
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-5edeafa6.js"
+        "q-d706071e.js"
       ],
       "origins": [
-        "src/routes/partners/index.tsx"
+        "src/fonts.css",
+        "src/global.scss",
+        "src/root.tsx"
       ]
     },
-    "q-24b68bc0.js": {
-      "size": 311,
+    "q-497f44a8.js": {
+      "size": 3660,
       "imports": [
+        "q-4db72093.js",
         "q-5a607cbf.js",
-        "q-7ccaaa78.js"
+        "q-75910706.js"
       ],
       "origins": [
-        "src/entry_menu_button.js",
-        "src/s_3h0ghs1nyjk.js"
+        "src/components/bread-crumbs/bread-crumbs.scss?used&inline",
+        "src/entry_BreadCrumbs.js",
+        "src/s_cw6hgir0uia.js",
+        "src/s_xlbeewwx3do.js"
       ],
       "symbols": [
-        "s_3H0Ghs1NYJk"
+        "s_cw6hgir0uIA",
+        "s_xlBeEWwX3do"
       ]
     },
-    "q-254543ca.js": {
-      "size": 541,
+    "q-4a78bbe6.js": {
+      "size": 703,
       "imports": [
         "q-5a607cbf.js",
-        "q-7ccaaa78.js"
+        "q-fd4a517a.js"
+      ],
+      "origins": [
+        "src/entry_TableDT.js",
+        "src/s_f8f0cnmclyo.js",
+        "src/s_xl02xza0dqk.js"
+      ],
+      "symbols": [
+        "s_F8f0Cnmclyo",
+        "s_Xl02XzA0Dqk"
+      ]
+    },
+    "q-4db72093.js": {
+      "size": 8293,
+      "imports": [
+        "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-c255330f.js"
+        "q-663033b0.js",
+        "q-b08bbddf.js",
+        "q-c1c7e0b4.js"
       ],
       "origins": [
-        "src/components/router-head/router-head.tsx",
-        "src/entry_root.js",
-        "src/s_3sccycdd1z0.js"
-      ],
-      "symbols": [
-        "s_3sccYCDd1Z0"
+        "@qwik-city-sw-register",
+        "node_modules/@builder.io/qwik-city/index.qwik.mjs"
       ]
     },
-    "q-257d447d.js": {
-      "size": 8026,
+    "q-5a607cbf.js": {
+      "size": 50150,
+      "origins": [
+        "node_modules/@builder.io/qwik/core.min.mjs"
+      ]
+    },
+    "q-5bb0e3a9.js": {
+      "size": 866,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/products/sapr-gd/index.mdx"
+      ]
+    },
+    "q-5fb3bc8f.js": {
+      "size": 571,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/news/news3 copy/index.mdx"
+      ]
+    },
+    "q-663033b0.js": {
+      "size": 2286,
+      "origins": [
+        "src/entry_spaInit.js",
+        "src/s_dyvc0ybiqqu.js"
+      ],
+      "symbols": [
+        "s_DyVc0YBIqQU"
+      ]
+    },
+    "q-6dd4d321.js": {
+      "size": 5306,
+      "imports": [
+        "q-0b4aa1f1.js",
+        "q-5a607cbf.js",
+        "q-75910706.js",
+        "q-e89ba716.js",
+        "q-fd4a517a.js"
+      ],
+      "origins": [
+        "src/entry_customers.js",
+        "src/s_fry0dhiybmo.js",
+        "src/s_hpfo4b4tlt4.js"
+      ],
+      "symbols": [
+        "s_fry0dHIyBmo",
+        "s_HpfO4B4tLt4"
+      ]
+    },
+    "q-6f751a51.js": {
+      "size": 7783,
       "imports": [
         "q-5a607cbf.js"
       ],
@@ -952,474 +1078,124 @@
         "s_Sz15kiC00QQ"
       ]
     },
-    "q-28ee3c53.js": {
-      "size": 882,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/products/as-fs/index.mdx"
-      ]
-    },
-    "q-291e8e5b.js": {
-      "size": 847,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/products/client-ep/index.mdx"
-      ]
-    },
-    "q-2a7e1fe8.js": {
-      "size": 128,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "origins": [
-        "src/s_ebq0vfsfksk.js"
-      ],
-      "symbols": [
-        "s_eBQ0vFsFKsk"
-      ]
-    },
-    "q-2f0ff342.js": {
-      "size": 1748,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js",
-        "q-aaca20dd.js",
-        "q-cda84ac5.js"
-      ],
-      "origins": [
-        "src/entry_services.js",
-        "src/s_22wpahhhp3g.js",
-        "src/s_etegcjcllzy.js"
-      ],
-      "symbols": [
-        "s_22wpahHHp3g",
-        "s_eTegcJCLlZY"
-      ]
-    },
-    "q-307164db.js": {
-      "size": 571,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/news/news3 copy 2/index.mdx"
-      ]
-    },
-    "q-32603a5f.js": {
-      "size": 889,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "origins": [
-        "src/entry_serverQrl.js",
-        "src/s_woipfiq04l4.js"
-      ],
-      "symbols": [
-        "s_wOIPfiQ04l4"
-      ]
-    },
-    "q-34cef8f5.js": {
-      "size": 583,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js",
-        "q-724a1ff3.js",
-        "q-cda84ac5.js"
-      ],
-      "origins": [
-        "src/entry_news.js",
-        "src/s_aqkcqsdur3u.js",
-        "src/s_gggp8ijxhtq.js"
-      ],
-      "symbols": [
-        "s_AqkcqSDur3U",
-        "s_GGGp8iJxhTQ"
-      ]
-    },
-    "q-38b483b2.js": {
-      "size": 8640,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "dynamicImports": [
-        "q-0941385e.js",
-        "q-0b9dec26.js",
-        "q-13033229.js",
-        "q-16caad9c.js",
-        "q-196a8eb5.js",
-        "q-1fb862c0.js",
-        "q-28ee3c53.js",
-        "q-291e8e5b.js",
-        "q-307164db.js",
-        "q-3f887ad5.js",
-        "q-4ce36e09.js",
-        "q-55dcac9a.js",
-        "q-6290580d.js",
-        "q-66b5addf.js",
-        "q-693fd5eb.js",
-        "q-6d8e8ef5.js",
-        "q-7ba1c948.js",
-        "q-9243b1d4.js",
-        "q-98158b52.js",
-        "q-abf10413.js",
-        "q-ac4d2ee6.js",
-        "q-bdd3014d.js",
-        "q-be16cf68.js",
-        "q-c3bcb6fd.js",
-        "q-c3c69e63.js",
-        "q-d2eac08b.js",
-        "q-e4010669.js",
-        "q-f8d89576.js",
-        "q-ffc91878.js"
-      ],
-      "origins": [
-        "@qwik-city-plan",
-        "src/entry_QwikCityProvider.js",
-        "src/s_02wmimzeabk.js",
-        "src/s_fx0bdjeja0e.js",
-        "src/s_rpdjaz33wla.js",
-        "src/s_txcfoy819ag.js"
-      ],
-      "symbols": [
-        "s_02wMImzEAbk",
-        "s_fX0bDjeJa0E",
-        "s_RPDJAz33WLA",
-        "s_TxCFOy819ag"
-      ]
-    },
-    "q-39ddf6f0.js": {
+    "q-75910706.js": {
       "size": 305,
       "imports": [
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-792363ec.js"
+        "q-497f44a8.js"
       ],
       "origins": [
         "src/components/bread-crumbs/bread-crumbs.tsx"
       ]
     },
-    "q-3f887ad5.js": {
+    "q-76f2e54c.js": {
+      "size": 323,
+      "imports": [
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-87b11620.js"
+      ],
+      "origins": [
+        "src/routes/contacts/index.tsx"
+      ]
+    },
+    "q-78968da0.js": {
+      "size": 323,
+      "imports": [
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-cd910947.js"
+      ],
+      "origins": [
+        "src/routes/partners/index.tsx"
+      ]
+    },
+    "q-78ad195f.js": {
+      "size": 1149,
+      "imports": [
+        "q-4db72093.js",
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-984cab4c.js"
+      ],
+      "origins": [
+        "src/entry_Link.js",
+        "src/s_8gdlbszqbam.js",
+        "src/s_i1cv0pyjnr0.js"
+      ],
+      "symbols": [
+        "s_8gdLBszqbaM",
+        "s_i1Cv0pYJNR0"
+      ]
+    },
+    "q-7bb9000c.js": {
       "size": 571,
       "imports": [
-        "q-39ddf6f0.js",
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/news/news3 copy 2/index.mdx"
+      ]
+    },
+    "q-7f08b14c.js": {
+      "size": 311,
+      "imports": [
+        "q-4db72093.js",
         "q-5a607cbf.js"
       ],
       "origins": [
-        "src/routes/news/news3/index.mdx"
+        "src/entry_menu_button.js",
+        "src/s_3h0ghs1nyjk.js"
+      ],
+      "symbols": [
+        "s_3H0Ghs1NYJk"
       ]
     },
-    "q-410d3420.js": {
-      "size": 13231,
+    "q-82ca6b59.js": {
+      "size": 882,
       "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/products/as-fs/index.mdx"
+      ]
+    },
+    "q-87b11620.js": {
+      "size": 2919,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js",
+        "q-e89ba716.js",
+        "q-fd4a517a.js"
+      ],
+      "origins": [
+        "src/entry_contacts.js",
+        "src/s_erkt2sau0hs.js",
+        "src/s_kfln4msqwpk.js"
+      ],
+      "symbols": [
+        "s_eRkT2saU0Hs",
+        "s_kFln4MsQWpk"
+      ]
+    },
+    "q-89d43425.js": {
+      "size": 394,
+      "imports": [
+        "q-4db72093.js",
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-24b68bc0.js"
+        "q-eeb9d05e.js"
       ],
       "origins": [
-        "src/components/controls/menu-button/menu-button.tsx",
-        "src/entry_header.js",
-        "src/media/_logo.svg?jsx",
-        "src/s_ceu05tscgye.js"
-      ],
-      "symbols": [
-        "s_ceU05TscGYE"
-      ]
-    },
-    "q-43dcc7b8.js": {
-      "size": 787,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "origins": [
-        "src/entry_QwikCityMockProvider.js",
-        "src/s_bubtvtyvvre.js",
-        "src/s_wmyc5h00wti.js"
-      ],
-      "symbols": [
-        "s_BUbtvTyvVRE",
-        "s_WmYC5H00wtI"
-      ]
-    },
-    "q-458f5f34.js": {
-      "size": 1037,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "origins": [
-        "src/entry_GetForm.js",
-        "src/s_nk9plpjqm9y.js",
-        "src/s_p9msze0ojs4.js"
-      ],
-      "symbols": [
-        "s_Nk9PlpjQm9Y",
-        "s_p9MSze0ojs4"
-      ]
-    },
-    "q-4ce36e09.js": {
-      "size": 844,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/products/sapr-ks/index.mdx"
-      ]
-    },
-    "q-50e475bf.js": {
-      "size": 4981,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/entry_about.js",
-        "src/media/images/photo_about.png?jsx",
-        "src/routes/about/about.scss?used&inline",
-        "src/s_7dmbir9cy0g.js",
-        "src/s_9igpnjsxq0g.js"
-      ],
-      "symbols": [
-        "s_7DMBIr9Cy0g",
-        "s_9IgPNJsxq0g"
-      ]
-    },
-    "q-55dcac9a.js": {
-      "size": 571,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/news/news3 copy/index.mdx"
-      ]
-    },
-    "q-5914773a.js": {
-      "size": 479,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-fb84025b.js"
-      ],
-      "origins": [
-        "src/entry_ContentCarousel.js",
-        "src/s_dsaeohlftte.js"
-      ],
-      "symbols": [
-        "s_DsaEOHLfttE"
-      ]
-    },
-    "q-5a607cbf.js": {
-      "size": 50150,
-      "origins": [
-        "node_modules/@builder.io/qwik/core.min.mjs"
-      ]
-    },
-    "q-5edeafa6.js": {
-      "size": 1731,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js",
-        "q-aaca20dd.js",
-        "q-cda84ac5.js"
-      ],
-      "origins": [
-        "src/entry_partners.js",
-        "src/s_q9cgcivzzy4.js",
-        "src/s_wixdk5ojg40.js"
-      ],
-      "symbols": [
-        "s_Q9cGCiVzzY4",
-        "s_wixdK5ojg40"
-      ]
-    },
-    "q-6290580d.js": {
-      "size": 301,
-      "imports": [
-        "q-5a607cbf.js"
-      ],
-      "dynamicImports": [
-        "q-bcfc7183.js"
-      ],
-      "origins": [
-        "src/routes/products/index.tsx"
-      ]
-    },
-    "q-663033b0.js": {
-      "size": 2286,
-      "origins": [
-        "src/entry_spaInit.js",
-        "src/s_dyvc0ybiqqu.js"
-      ],
-      "symbols": [
-        "s_DyVc0YBIqQU"
-      ]
-    },
-    "q-66b5addf.js": {
-      "size": 884,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/products/caspr/index.mdx"
-      ]
-    },
-    "q-693fd5eb.js": {
-      "size": 571,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/news/news2 copy 2/index.mdx"
-      ]
-    },
-    "q-6d8e8ef5.js": {
-      "size": 866,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/products/sapr-gd/index.mdx"
-      ]
-    },
-    "q-6df5947f.js": {
-      "size": 842,
-      "imports": [
-        "q-16caad9c.js",
-        "q-196a8eb5.js",
-        "q-1fb862c0.js",
-        "q-5a607cbf.js",
-        "q-6290580d.js",
-        "q-abf10413.js",
-        "q-ac4d2ee6.js",
-        "q-b91f53cb.js",
-        "q-e4010669.js"
-      ],
-      "origins": [
-        "src/entry_routes.js",
-        "src/s_6r9bnbnj0sq.js",
-        "src/s_xyl1qowpydi.js"
-      ],
-      "symbols": [
-        "s_6r9BnBnj0sQ",
-        "s_xYL1qOwPyDI"
-      ]
-    },
-    "q-724a1ff3.js": {
-      "size": 355,
-      "imports": [
-        "q-5a607cbf.js"
-      ],
-      "dynamicImports": [
-        "q-fe820028.js"
-      ],
-      "origins": [
-        "src/components/content/news-carousel/news-carousel.tsx"
-      ]
-    },
-    "q-792363ec.js": {
-      "size": 3908,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "origins": [
-        "src/components/bread-crumbs/bread-crumbs.scss?used&inline",
-        "src/entry_BreadCrumbs.js",
-        "src/s_cw6hgir0uia.js",
-        "src/s_xlbeewwx3do.js"
-      ],
-      "symbols": [
-        "s_cw6hgir0uIA",
-        "s_xlBeEWwX3do"
-      ]
-    },
-    "q-7ba1c948.js": {
-      "size": 571,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/news/news2/index.mdx"
-      ]
-    },
-    "q-7ccaaa78.js": {
-      "size": 8293,
-      "imports": [
-        "q-5a607cbf.js"
-      ],
-      "dynamicImports": [
-        "q-38b483b2.js",
-        "q-663033b0.js",
-        "q-b03dd7f3.js"
-      ],
-      "origins": [
-        "@qwik-city-sw-register",
-        "node_modules/@builder.io/qwik-city/index.qwik.mjs"
-      ]
-    },
-    "q-7d05e967.js": {
-      "size": 584,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-d4d6a68c.js"
-      ],
-      "dynamicImports": [
-        "q-410d3420.js"
-      ],
-      "origins": [
-        "src/components/header/header.tsx",
-        "src/entry_layout.js",
-        "src/s_vklnxphuh5s.js"
-      ],
-      "symbols": [
-        "s_VkLNXphUh5s"
-      ]
-    },
-    "q-863c2570.js": {
-      "size": 703,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-cda84ac5.js"
-      ],
-      "origins": [
-        "src/entry_TableDT.js",
-        "src/s_f8f0cnmclyo.js",
-        "src/s_xl02xza0dqk.js"
-      ],
-      "symbols": [
-        "s_F8f0Cnmclyo",
-        "s_Xl02XzA0Dqk"
-      ]
-    },
-    "q-88c6e8e5.js": {
-      "size": 207,
-      "imports": [
-        "q-5a607cbf.js"
-      ],
-      "dynamicImports": [
-        "q-254543ca.js"
-      ],
-      "origins": [
-        "src/global.scss",
-        "src/root.tsx"
+        "src/routes/layout.tsx"
       ]
     },
     "q-8d1e70db.js": {
@@ -1442,14 +1218,14 @@
         "src/routes/service-worker.ts"
       ]
     },
-    "q-9243b1d4.js": {
-      "size": 854,
+    "q-91fc9a85.js": {
+      "size": 571,
       "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
+        "q-5a607cbf.js",
+        "q-75910706.js"
       ],
       "origins": [
-        "src/routes/products/eldoc/index.mdx"
+        "src/routes/news/news2 copy/index.mdx"
       ]
     },
     "q-98158b52.js": {
@@ -1461,54 +1237,230 @@
         "src/routes/news/news1/index.mdx"
       ]
     },
-    "q-aaca20dd.js": {
-      "size": 201,
+    "q-984cab4c.js": {
+      "size": 128,
+      "imports": [
+        "q-4db72093.js",
+        "q-5a607cbf.js"
+      ],
+      "origins": [
+        "src/s_ebq0vfsfksk.js"
+      ],
+      "symbols": [
+        "s_eBQ0vFsFKsk"
+      ]
+    },
+    "q-99a944b6.js": {
+      "size": 281,
       "imports": [
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-863c2570.js"
+        "q-ea82ebe7.js"
       ],
       "origins": [
-        "src/components/content/table-dt/table-dt.tsx"
+        "src/routes/about/index.tsx"
       ]
     },
-    "q-abf10413.js": {
-      "size": 321,
+    "q-9fc080a3.js": {
+      "size": 355,
       "imports": [
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-2f0ff342.js"
+        "q-ff29680c.js"
       ],
       "origins": [
-        "src/routes/services/index.tsx"
+        "src/components/content/news-carousel/news-carousel.tsx"
       ]
     },
-    "q-ac4d2ee6.js": {
+    "q-a1a8d500.js": {
+      "size": 761,
+      "imports": [
+        "q-4db72093.js",
+        "q-5a607cbf.js"
+      ],
+      "origins": [
+        "src/entry_RouterHead.js",
+        "src/s_zrbrqoaqxsy.js"
+      ],
+      "symbols": [
+        "s_zrbrqoaqXSY"
+      ]
+    },
+    "q-a728a4f9.js": {
+      "size": 13231,
+      "imports": [
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-7f08b14c.js"
+      ],
+      "origins": [
+        "src/components/controls/menu-button/menu-button.tsx",
+        "src/entry_header.js",
+        "src/media/_logo.svg?jsx",
+        "src/s_ceu05tscgye.js"
+      ],
+      "symbols": [
+        "s_ceU05TscGYE"
+      ]
+    },
+    "q-a7532fd0.js": {
       "size": 322,
       "imports": [
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-34cef8f5.js"
+        "q-aebc78f7.js"
       ],
       "origins": [
         "src/routes/news/index.tsx"
       ]
     },
-    "q-b03dd7f3.js": {
-      "size": 467,
+    "q-aacdfee4.js": {
+      "size": 844,
       "imports": [
         "q-5a607cbf.js",
-        "q-7ccaaa78.js"
+        "q-75910706.js"
       ],
       "origins": [
-        "src/entry_RouterOutlet.js",
-        "src/s_e0ssidxoeam.js"
+        "src/routes/products/sapr-ks/index.mdx"
+      ]
+    },
+    "q-aebc78f7.js": {
+      "size": 583,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js",
+        "q-9fc080a3.js",
+        "q-fd4a517a.js"
+      ],
+      "origins": [
+        "src/entry_news.js",
+        "src/s_aqkcqsdur3u.js",
+        "src/s_gggp8ijxhtq.js"
       ],
       "symbols": [
-        "s_e0ssiDXoeAM"
+        "s_AqkcqSDur3U",
+        "s_GGGp8iJxhTQ"
+      ]
+    },
+    "q-af0669aa.js": {
+      "size": 787,
+      "imports": [
+        "q-4db72093.js",
+        "q-5a607cbf.js"
+      ],
+      "origins": [
+        "src/entry_QwikCityMockProvider.js",
+        "src/s_bubtvtyvvre.js",
+        "src/s_wmyc5h00wti.js"
+      ],
+      "symbols": [
+        "s_BUbtvTyvVRE",
+        "s_WmYC5H00wtI"
+      ]
+    },
+    "q-b08bbddf.js": {
+      "size": 8640,
+      "imports": [
+        "q-4db72093.js",
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-0673b304.js",
+        "q-0b9dec26.js",
+        "q-13033229.js",
+        "q-18e72740.js",
+        "q-1e10729f.js",
+        "q-21fd31d7.js",
+        "q-25ee0c62.js",
+        "q-5bb0e3a9.js",
+        "q-5fb3bc8f.js",
+        "q-76f2e54c.js",
+        "q-78968da0.js",
+        "q-7bb9000c.js",
+        "q-82ca6b59.js",
+        "q-89d43425.js",
+        "q-91fc9a85.js",
+        "q-98158b52.js",
+        "q-99a944b6.js",
+        "q-a7532fd0.js",
+        "q-aacdfee4.js",
+        "q-b1240469.js",
+        "q-b9c09279.js",
+        "q-bc13836f.js",
+        "q-c3c69e63.js",
+        "q-c8a77a2d.js",
+        "q-cf807558.js",
+        "q-e35ceb57.js",
+        "q-e8f53c8b.js",
+        "q-f7efe405.js",
+        "q-f8d89576.js"
+      ],
+      "origins": [
+        "@qwik-city-plan",
+        "src/entry_QwikCityProvider.js",
+        "src/s_02wmimzeabk.js",
+        "src/s_fx0bdjeja0e.js",
+        "src/s_rpdjaz33wla.js",
+        "src/s_txcfoy819ag.js"
+      ],
+      "symbols": [
+        "s_02wMImzEAbk",
+        "s_fX0bDjeJa0E",
+        "s_RPDJAz33WLA",
+        "s_TxCFOy819ag"
+      ]
+    },
+    "q-b1240469.js": {
+      "size": 571,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/news/news3/index.mdx"
+      ]
+    },
+    "q-b1cd5c9e.js": {
+      "size": 727,
+      "imports": [
+        "q-0b4aa1f1.js",
+        "q-4db72093.js",
+        "q-5a607cbf.js",
+        "q-89d43425.js"
+      ],
+      "origins": [
+        "src/entry_PageCarousel.js",
+        "src/s_ptuj2qtqrtc.js"
+      ],
+      "symbols": [
+        "s_PTuj2QTqRtc"
+      ]
+    },
+    "q-b844deb4.js": {
+      "size": 842,
+      "imports": [
+        "q-18e72740.js",
+        "q-21fd31d7.js",
+        "q-25ee0c62.js",
+        "q-5a607cbf.js",
+        "q-76f2e54c.js",
+        "q-78968da0.js",
+        "q-99a944b6.js",
+        "q-a7532fd0.js",
+        "q-b91f53cb.js"
+      ],
+      "origins": [
+        "src/entry_routes.js",
+        "src/s_6r9bnbnj0sq.js",
+        "src/s_xyl1qowpydi.js"
+      ],
+      "symbols": [
+        "s_6r9BnBnj0sQ",
+        "s_xYL1qOwPyDI"
       ]
     },
     "q-b91f53cb.js": {
@@ -1523,98 +1475,46 @@
         "src/components/banner-dt/banner-dt.tsx"
       ]
     },
-    "q-bcfc7183.js": {
-      "size": 791,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js",
-        "q-cda84ac5.js"
-      ],
-      "dynamicImports": [
-        "q-dcde7be3.js"
-      ],
-      "origins": [
-        "src/components/content/pages-carousel/pages-carousel.tsx",
-        "src/entry_products.js",
-        "src/s_fil5rx6jm0w.js",
-        "src/s_gxrfzyjeljg.js"
-      ],
-      "symbols": [
-        "s_FIL5rX6jm0w",
-        "s_gxRFzyJELJg"
-      ]
-    },
-    "q-bd2eeeb0.js": {
-      "size": 2919,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js",
-        "q-aaca20dd.js",
-        "q-cda84ac5.js"
-      ],
-      "origins": [
-        "src/entry_contacts.js",
-        "src/s_erkt2sau0hs.js",
-        "src/s_kfln4msqwpk.js"
-      ],
-      "symbols": [
-        "s_eRkT2saU0Hs",
-        "s_kFln4MsQWpk"
-      ]
-    },
-    "q-bdd3014d.js": {
-      "size": 394,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "dynamicImports": [
-        "q-7d05e967.js"
-      ],
-      "origins": [
-        "src/routes/layout.tsx"
-      ]
-    },
-    "q-be16cf68.js": {
+    "q-b9c09279.js": {
       "size": 571,
       "imports": [
-        "q-39ddf6f0.js",
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/news/news2 copy 2/index.mdx"
+      ]
+    },
+    "q-bc13836f.js": {
+      "size": 481,
+      "imports": [
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-b844deb4.js"
+      ],
+      "origins": [
+        "src/routes/index.tsx"
+      ]
+    },
+    "q-c1c7e0b4.js": {
+      "size": 467,
+      "imports": [
+        "q-4db72093.js",
         "q-5a607cbf.js"
       ],
       "origins": [
-        "src/routes/news/news2 copy/index.mdx"
-      ]
-    },
-    "q-c255330f.js": {
-      "size": 761,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "origins": [
-        "src/entry_RouterHead.js",
-        "src/s_zrbrqoaqxsy.js"
+        "src/entry_RouterOutlet.js",
+        "src/s_e0ssidxoeam.js"
       ],
       "symbols": [
-        "s_zrbrqoaqXSY"
+        "s_e0ssiDXoeAM"
       ]
     },
     "q-c28ca177.js": {
       "size": 418,
       "origins": [
         "src/components/banner-dt/banner-dt.scss?used&inline"
-      ]
-    },
-    "q-c3bcb6fd.js": {
-      "size": 481,
-      "imports": [
-        "q-5a607cbf.js"
-      ],
-      "dynamicImports": [
-        "q-6df5947f.js"
-      ],
-      "origins": [
-        "src/routes/index.tsx"
       ]
     },
     "q-c3c69e63.js": {
@@ -1629,20 +1529,42 @@
         "src/routes/404.tsx"
       ]
     },
-    "q-cda84ac5.js": {
-      "size": 12277,
-      "origins": [
-        "src/components/content/table-dt/table-dt.scss?used&inline"
-      ]
-    },
-    "q-d2eac08b.js": {
+    "q-c8a77a2d.js": {
       "size": 571,
       "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
+        "q-5a607cbf.js",
+        "q-75910706.js"
       ],
       "origins": [
-        "src/routes/news/news1 copy/index.mdx"
+        "src/routes/news/news2/index.mdx"
+      ]
+    },
+    "q-cd910947.js": {
+      "size": 1731,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js",
+        "q-e89ba716.js",
+        "q-fd4a517a.js"
+      ],
+      "origins": [
+        "src/entry_partners.js",
+        "src/s_q9cgcivzzy4.js",
+        "src/s_wixdk5ojg40.js"
+      ],
+      "symbols": [
+        "s_Q9cGCiVzzY4",
+        "s_wixdK5ojg40"
+      ]
+    },
+    "q-cf807558.js": {
+      "size": 571,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/news/news1 copy 2/index.mdx"
       ]
     },
     "q-d3c3737a.js": {
@@ -1676,32 +1598,32 @@
         "src/components/banner-dt/banner-dt-short.tsx"
       ]
     },
-    "q-dcde7be3.js": {
-      "size": 727,
+    "q-d706071e.js": {
+      "size": 541,
       "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js",
-        "q-bdd3014d.js",
-        "q-fb84025b.js"
-      ],
-      "origins": [
-        "src/entry_PageCarousel.js",
-        "src/s_ptuj2qtqrtc.js"
-      ],
-      "symbols": [
-        "s_PTuj2QTqRtc"
-      ]
-    },
-    "q-e4010669.js": {
-      "size": 281,
-      "imports": [
+        "q-4db72093.js",
         "q-5a607cbf.js"
       ],
       "dynamicImports": [
-        "q-50e475bf.js"
+        "q-a1a8d500.js"
       ],
       "origins": [
-        "src/routes/about/index.tsx"
+        "src/components/router-head/router-head.tsx",
+        "src/entry_root.js",
+        "src/s_3sccycdd1z0.js"
+      ],
+      "symbols": [
+        "s_3sccYCDd1Z0"
+      ]
+    },
+    "q-e35ceb57.js": {
+      "size": 847,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/products/client-ep/index.mdx"
       ]
     },
     "q-e4bc73b1.js": {
@@ -1723,25 +1645,6 @@
         "s_secLXsmUCAE"
       ]
     },
-    "q-e6509a54.js": {
-      "size": 1149,
-      "imports": [
-        "q-5a607cbf.js",
-        "q-7ccaaa78.js"
-      ],
-      "dynamicImports": [
-        "q-2a7e1fe8.js"
-      ],
-      "origins": [
-        "src/entry_Link.js",
-        "src/s_8gdlbszqbam.js",
-        "src/s_i1cv0pyjnr0.js"
-      ],
-      "symbols": [
-        "s_8gdLBszqbaM",
-        "s_i1Cv0pYJNR0"
-      ]
-    },
     "q-e8547b78.js": {
       "size": 751,
       "imports": [
@@ -1755,32 +1658,159 @@
         "s_A5bZC7WO00A"
       ]
     },
+    "q-e89ba716.js": {
+      "size": 201,
+      "imports": [
+        "q-5a607cbf.js"
+      ],
+      "dynamicImports": [
+        "q-4a78bbe6.js"
+      ],
+      "origins": [
+        "src/components/content/table-dt/table-dt.tsx"
+      ]
+    },
+    "q-e8b417f3.js": {
+      "size": 791,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js",
+        "q-fd4a517a.js"
+      ],
+      "dynamicImports": [
+        "q-b1cd5c9e.js"
+      ],
+      "origins": [
+        "src/components/content/pages-carousel/pages-carousel.tsx",
+        "src/entry_products.js",
+        "src/s_fil5rx6jm0w.js",
+        "src/s_gxrfzyjeljg.js"
+      ],
+      "symbols": [
+        "s_FIL5rX6jm0w",
+        "s_gxRFzyJELJg"
+      ]
+    },
+    "q-e8f53c8b.js": {
+      "size": 571,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/news/news1 copy/index.mdx"
+      ]
+    },
+    "q-ea82ebe7.js": {
+      "size": 4738,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/entry_about.js",
+        "src/media/images/photo_about.png?jsx",
+        "src/routes/about/about.scss?used&inline",
+        "src/s_7dmbir9cy0g.js",
+        "src/s_9igpnjsxq0g.js"
+      ],
+      "symbols": [
+        "s_7DMBIr9Cy0g",
+        "s_9IgPNJsxq0g"
+      ]
+    },
+    "q-ebfe1c8f.js": {
+      "size": 479,
+      "imports": [
+        "q-0b4aa1f1.js",
+        "q-5a607cbf.js"
+      ],
+      "origins": [
+        "src/entry_ContentCarousel.js",
+        "src/s_dsaeohlftte.js"
+      ],
+      "symbols": [
+        "s_DsaEOHLfttE"
+      ]
+    },
+    "q-ecababd6.js": {
+      "size": 1037,
+      "imports": [
+        "q-4db72093.js",
+        "q-5a607cbf.js"
+      ],
+      "origins": [
+        "src/entry_GetForm.js",
+        "src/s_nk9plpjqm9y.js",
+        "src/s_p9msze0ojs4.js"
+      ],
+      "symbols": [
+        "s_Nk9PlpjQm9Y",
+        "s_p9MSze0ojs4"
+      ]
+    },
+    "q-eeb9d05e.js": {
+      "size": 584,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-d4d6a68c.js"
+      ],
+      "dynamicImports": [
+        "q-a728a4f9.js"
+      ],
+      "origins": [
+        "src/components/header/header.tsx",
+        "src/entry_layout.js",
+        "src/s_vklnxphuh5s.js"
+      ],
+      "symbols": [
+        "s_VkLNXphUh5s"
+      ]
+    },
+    "q-f7efe405.js": {
+      "size": 854,
+      "imports": [
+        "q-5a607cbf.js",
+        "q-75910706.js"
+      ],
+      "origins": [
+        "src/routes/products/eldoc/index.mdx"
+      ]
+    },
     "q-f8d89576.js": {
       "size": 590,
       "origins": [
         "src/routes/menu.md"
       ]
     },
-    "q-fb84025b.js": {
-      "size": 179,
+    "q-faad7974.js": {
+      "size": 889,
       "imports": [
+        "q-4db72093.js",
         "q-5a607cbf.js"
       ],
-      "dynamicImports": [
-        "q-257d447d.js"
-      ],
       "origins": [
-        "src/components/content/carousel/carousel.tsx"
+        "src/entry_serverQrl.js",
+        "src/s_woipfiq04l4.js"
+      ],
+      "symbols": [
+        "s_wOIPfiQ04l4"
       ]
     },
-    "q-fe820028.js": {
+    "q-fd4a517a.js": {
+      "size": 12034,
+      "origins": [
+        "src/components/content/table-dt/table-dt.scss?used&inline"
+      ]
+    },
+    "q-ff29680c.js": {
       "size": 897,
       "imports": [
+        "q-0b4aa1f1.js",
+        "q-4db72093.js",
         "q-5a607cbf.js",
-        "q-724a1ff3.js",
-        "q-7ccaaa78.js",
-        "q-bdd3014d.js",
-        "q-fb84025b.js"
+        "q-89d43425.js",
+        "q-9fc080a3.js"
       ],
       "origins": [
         "src/entry_NewsCarousel.js",
@@ -1789,44 +1819,37 @@
       "symbols": [
         "s_KD7Y08B0IyI"
       ]
-    },
-    "q-fefc8526.js": {
-      "size": 5306,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js",
-        "q-aaca20dd.js",
-        "q-cda84ac5.js",
-        "q-fb84025b.js"
-      ],
-      "origins": [
-        "src/entry_customers.js",
-        "src/s_fry0dhiybmo.js",
-        "src/s_hpfo4b4tlt4.js"
-      ],
-      "symbols": [
-        "s_fry0dHIyBmo",
-        "s_HpfO4B4tLt4"
-      ]
-    },
-    "q-ffc91878.js": {
-      "size": 571,
-      "imports": [
-        "q-39ddf6f0.js",
-        "q-5a607cbf.js"
-      ],
-      "origins": [
-        "src/routes/news/news1 copy 2/index.mdx"
-      ]
     }
   },
   "injections": [
     {
+      "tag": "link",
+      "location": "head",
+      "attributes": {
+        "rel": "preload",
+        "href": "/build/q-15101f77.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": ""
+      }
+    },
+    {
+      "tag": "link",
+      "location": "head",
+      "attributes": {
+        "rel": "preload",
+        "href": "/build/q-89ff5dd6.woff",
+        "as": "font",
+        "type": "font/woff",
+        "crossorigin": ""
+      }
+    },
+    {
       "tag": "style",
       "location": "head",
       "attributes": {
-        "data-src": "/build/q-1dde9d02.css",
-        "dangerouslySetInnerHTML": "@font-face{font-display:swap;font-family:FSrail;src:url(/fonts/FSRAIL55.woff) format(\"woff\"),url(/fonts/FSRAIL55.woff2) format(\"woff2\")}@font-face{font-display:swap;font-family:RussianRailGPro;src:url(/fonts/RussianRailGPro.otf) format(\"otf\")}*{margin:0;padding:0;box-sizing:border-box;font-family:FSrail!important;color:#646566}a:active,a:focus{outline:none}input,textarea,input:active,textarea:active{outline:none}:focus{outline:none;-moz-outline:none}textarea{resize:none}textarea{resize:vertical}textarea{resize:horizontal}h1,h2,h3,h4,h5{position:relative;white-space:normal;overflow-wrap:normal;text-decoration:none;font-weight:400;color:#646566}h1{font-size:36px;padding:6px 0}h2{font-size:24px}body{min-height:100vh;display:flex;flex-direction:column}.content{position:relative;display:block;background-color:#fff;height:100%;margin:0;padding:0 60px;font-family:FSrail;flex-grow:1}._invert{filter:invert(100%)}.footer{padding:0 60px;background:rgba(255,255,255,.8);-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}.company{text-align:center;width:100%;border-top:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;margin:12px 0;padding:4px 0}button{position:relative;display:inline-block;height:80px;padding:0 10px;margin:0 10px;text-align:center;color:#d30422;cursor:pointer;-webkit-hyphens:auto;hyphens:auto;text-decoration:none;outline:none;background-color:#fff;border:none;border-radius:12px;font-family:FSrail}.header{-webkit-user-select:none;-moz-user-select:none;z-index:11;border:2px;background-color:#fff;border-bottom-style:solid;border-top-style:solid;border-bottom-color:#e0e0e0;border-top-color:#e0e0e0;overflow:hidden}.header .header-container{display:grid;grid-template-columns:15% 85%;align-items:center;padding:10px}.header .header-container .logo a{display:block;height:100%}.header .header-container .logo a svg{transition:.2s}@media only screen and (max-width: 1520px){.header .header-container .logo a svg{width:150px;transition:.2s}}.header .header-container .logo svg{display:inline-block;background-repeat:no-repeat}.header .header-container .header-buttons{display:grid;grid-template-columns:repeat(7,1fr)}.header .header-container .header-buttons .menu-button{width:100%;font-size:24px;transition:.1s}@media only screen and (max-width: 1520px){.header .header-container .header-buttons .menu-button{font-size:18px}}.header .header-container .header-buttons .menu-button:hover{transition:.2s;background-color:#d30422;color:#fff}.header .header-container .header-buttons .current{color:#fff;background-color:#d30422}.center{text-align:center}.red{color:#d30422}.black{color:#000}\n"
+        "data-src": "/build/q-de4e8a4d.css",
+        "dangerouslySetInnerHTML": "@font-face{font-display:block;font-family:FSrail;src:url(/build/q-89ff5dd6.woff) format(\"woff\"),url(/build/q-15101f77.woff2) format(\"woff2\")}*{margin:0;padding:0;box-sizing:border-box;font-family:FSrail!important;color:#646566}a:active,a:focus{outline:none}input,textarea,input:active,textarea:active{outline:none}:focus{outline:none;-moz-outline:none}textarea{resize:none}textarea{resize:vertical}textarea{resize:horizontal}h1,h2,h3,h4,h5{position:relative;white-space:normal;overflow-wrap:normal;text-decoration:none;font-weight:400;color:#646566}h1{font-size:36px;padding:6px 0}h2{font-size:24px}body{min-height:100vh;display:flex;flex-direction:column}.content{position:relative;display:block;background-color:#fff;height:100%;margin:0;padding:0 60px;font-family:FSrail;flex-grow:1}._invert{filter:invert(100%)}.footer{padding:0 60px;background:rgba(255,255,255,.8);-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}.company{text-align:center;width:100%;border-top:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;margin:12px 0;padding:4px 0}button{position:relative;display:inline-block;height:80px;padding:0 10px;margin:0 10px;text-align:center;color:#d30422;cursor:pointer;-webkit-hyphens:auto;hyphens:auto;text-decoration:none;outline:none;background-color:#fff;border:none;border-radius:12px;font-family:FSrail}.header{-webkit-user-select:none;-moz-user-select:none;z-index:11;border:2px;background-color:#fff;border-bottom-style:solid;border-top-style:solid;border-bottom-color:#e0e0e0;border-top-color:#e0e0e0;overflow:hidden}.header .header-container{display:grid;grid-template-columns:15% 85%;align-items:center;padding:10px}.header .header-container .logo a{display:block;height:100%}.header .header-container .logo a svg{transition:.2s}@media only screen and (max-width: 1520px){.header .header-container .logo a svg{width:150px;transition:.2s}}.header .header-container .logo svg{display:inline-block;background-repeat:no-repeat}.header .header-container .header-buttons{display:grid;grid-template-columns:repeat(7,1fr)}.header .header-container .header-buttons .menu-button{width:100%;font-size:24px;transition:.1s}@media only screen and (max-width: 1520px){.header .header-container .header-buttons .menu-button{font-size:18px}}.header .header-container .header-buttons .menu-button:hover{transition:.2s;background-color:#d30422;color:#fff}.header .header-container .header-buttons .current{color:#fff;background-color:#d30422}.center{text-align:center}.red{color:#d30422}.black{color:#000}\n"
       }
     }
   ],

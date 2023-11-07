@@ -1,1 +1,0 @@
-import{n as t,h as e,_ as s}from"./q-5a607cbf.js";const o=t(e(()=>s(()=>import("./q-fefc8526.js"),["build/q-fefc8526.js","build/q-cda84ac5.js","build/q-5a607cbf.js","build/q-39ddf6f0.js","build/q-fb84025b.js","build/q-aaca20dd.js"]),"s_HpfO4B4tLt4")),_={title:"Заказчики",meta:[{name:"Цифровые технологии 1520"}]};export{o as default,_ as head};
