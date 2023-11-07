@@ -1,0 +1,1 @@
+import{n as o,h as r,_}from"./q-5a607cbf.js";const c=o(r(()=>_(()=>import("./q-d3c3737a.js"),["build/q-d3c3737a.js","build/q-5a607cbf.js","build/q-c28ca177.js"]),"s_tv0G0SbNq5c"));class l{constructor(s,t,i,h,a,e){this.symbol="0",this.x=0,this.y=0,this.size="0px",this.speed=0,this.alpha=0,this.symbol=s,this.x=t,this.y=i,this.size=h,this.speed=a,this.alpha=e}}export{l as B,c as a};

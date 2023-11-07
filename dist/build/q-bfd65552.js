@@ -1,1 +1,0 @@
-import{F as o,m as r,_}from"./q-c22284a5.js";const c=o(r(()=>_(()=>import("./q-07c02e13.js"),["build/q-07c02e13.js","build/q-c22284a5.js","build/q-0780c415.js"]),"s_tv0G0SbNq5c"));class l{constructor(s,t,i,h,a,e){this.symbol="0",this.x=0,this.y=0,this.size="0px",this.speed=0,this.alpha=0,this.symbol=s,this.x=t,this.y=i,this.size=h,this.speed=a,this.alpha=e}}export{l as B,c as a};

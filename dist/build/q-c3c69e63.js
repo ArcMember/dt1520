@@ -1,0 +1,1 @@
+import{n as t,h as _,_ as a}from"./q-5a607cbf.js";const o=t(_(()=>a(()=>import("./q-8d1e70db.js"),["build/q-8d1e70db.js","build/q-5a607cbf.js"]),"s_0MGbS7NS0Nk")),s={title:"Ошибка 404",meta:[{name:"Цифровые технологии 1520"}]};export{o as default,s as head};

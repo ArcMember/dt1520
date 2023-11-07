@@ -1,1 +1,0 @@
-import{B as a}from"./q-3c878900.js";import{N as e}from"./q-ee7ab6f5.js";import{C as r,q as n,c as s,R as l}from"./q-c22284a5.js";const p=()=>r(l,{children:[r(a,null,3,"jn_0"),n("h1",null,{class:"center"},"Новости",3,null),r(e,{pages:3,[s]:{pages:s}},3,"jn_1")]},1,"jn_2");export{p as s_GGGp8iJxhTQ};

@@ -1,0 +1,1 @@
+import{S as r,a as s,j as o,E as u}from"./q-5a607cbf.js";import{a as l}from"./q-7ccaaa78.js";const m=t=>{const n=l(),a=t.href+"/"==n.url.pathname;return r("a",null,{href:s(e=>e.href,[t])},r("button",{class:"menu-button "+(a?" current":"")},null,o(u,null,3,"eF_0"),1,null),1,"eF_1")};export{m as s_3H0Ghs1NYJk};
